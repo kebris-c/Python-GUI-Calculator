@@ -24,9 +24,9 @@ A fully functional calculator built with Python and Tkinter. This project demons
 
 ## Screenshots
 
-![Calculator Screenshot](screenshot.png)  
+![Calculator Screenshot](screenshot/1.png)  
 
-*(Replace with your actual screenshot)*
+![Calculator Screenshot](screenshot/2.png)  
 
 ---
 

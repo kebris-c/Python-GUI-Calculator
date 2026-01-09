@@ -24,9 +24,9 @@ A fully functional calculator built with Python and Tkinter. This project demons
 
 ## Screenshots
 
-![Calculator Screenshot](screenshot/1.png)  
+![Calculator Screenshot](screenshot/python_gui_calc.png)  
 
-![Calculator Screenshot](screenshot/2.png)  
+![Calculator Screenshot](screenshot/python_gui_calc_2.png)  
 
 ---
 
@@ -35,5 +35,5 @@ A fully functional calculator built with Python and Tkinter. This project demons
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/python-gui-calculator.git
+git clone https://github.com/kebris-c/python-gui-calculator.git
 cd python-gui-calculator
